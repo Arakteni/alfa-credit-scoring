@@ -1,0 +1,42 @@
+{
+  "main": "woe-logit",
+  "main_version": "v1.0.0-woe-logit",
+  "scorecard_features": [
+    "payment_burden",
+    "loss_quarters",
+    "equity_ratio",
+    "negative_equity",
+    "gross_margin",
+    "revenue_growth_yoy",
+    "liabilities_to_revenue",
+    "balance_to_turnover",
+    "inquiries_12m",
+    "overdue_30_cnt",
+    "inquiries_3m",
+    "turnover_cv",
+    "revenue_cv",
+    "overdue_60_cnt",
+    "current_overdue_flag",
+    "current_ratio",
+    "overdue_90_cnt",
+    "company_age_months",
+    "tax_debt_ratio",
+    "open_loans",
+    "history_months",
+    "debit_credit_ratio",
+    "turnover_avg_log",
+    "turnover_to_revenue",
+    "account_blocked"
+  ],
+  "woe_logit_C": 0.01,
+  "calibration": {
+    "woe_logit": "platt"
+  },
+  "cv_gini_woe_logit": [
+    0.5823244997921828,
+    0.5932467341151464,
+    0.6542344702768965,
+    0.6672663375449754,
+    0.6589197556689816
+  ]
+}

@@ -1,0 +1,23 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# ОС / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Воспроизводимые данные (make data); manifest.json остаётся в репозитории
+data/generated/*.csv
+
+# Не входит в репозиторий: ТЗ, отчёты, памятка
+CLAUDE.md
+ТЗ-альфа хакатон.pdf
+tz-ml-engineer.md
+ОТЧЁТ_DS.md
+ОТЧЁТ_DS.pdf

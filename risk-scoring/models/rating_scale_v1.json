@@ -1,0 +1,85 @@
+{
+ "version": "rating-scale-v1",
+ "grades": [
+  {
+   "grade": "AAA",
+   "segment": "LOW",
+   "pd_from": 0.0,
+   "pd_to": 0.02,
+   "score_from": 668,
+   "score_to": 836
+  },
+  {
+   "grade": "AA",
+   "segment": "LOW",
+   "pd_from": 0.02,
+   "pd_to": 0.03,
+   "score_from": 638,
+   "score_to": 668
+  },
+  {
+   "grade": "A",
+   "segment": "LOW",
+   "pd_from": 0.03,
+   "pd_to": 0.045,
+   "score_from": 608,
+   "score_to": 638
+  },
+  {
+   "grade": "BBB",
+   "segment": "MEDIUM",
+   "pd_from": 0.045,
+   "pd_to": 0.065,
+   "score_from": 580,
+   "score_to": 608
+  },
+  {
+   "grade": "BB",
+   "segment": "MEDIUM",
+   "pd_from": 0.065,
+   "pd_to": 0.09,
+   "score_from": 554,
+   "score_to": 580
+  },
+  {
+   "grade": "B",
+   "segment": "HIGH",
+   "pd_from": 0.09,
+   "pd_to": 0.125,
+   "score_from": 528,
+   "score_to": 554
+  },
+  {
+   "grade": "CCC",
+   "segment": "HIGH",
+   "pd_from": 0.125,
+   "pd_to": 0.18,
+   "score_from": 497,
+   "score_to": 528
+  },
+  {
+   "grade": "CC",
+   "segment": "VERY_HIGH",
+   "pd_from": 0.18,
+   "pd_to": 0.28,
+   "score_from": 456,
+   "score_to": 497
+  },
+  {
+   "grade": "C",
+   "segment": "VERY_HIGH",
+   "pd_from": 0.28,
+   "pd_to": 0.42,
+   "score_from": 411,
+   "score_to": 456
+  },
+  {
+   "grade": "D",
+   "segment": "VERY_HIGH",
+   "pd_from": 0.42,
+   "pd_to": 1.0,
+   "score_from": 300,
+   "score_to": 411
+  }
+ ]
+}

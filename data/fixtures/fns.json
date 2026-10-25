@@ -1,0 +1,530 @@
+{
+ "_synthetic": true,
+ "_notice": "СИНТЕТИЧЕСКИЕ ДАННЫЕ: сгенерированы командой хакатона; к реальным лицам и организациям не относятся. ИНН/ОГРН из несуществующего диапазона (код региона 00).",
+ "_datasetVersion": "synth-v1.0",
+ "_asOf": "2026-10-26",
+ "_description": "Данные ФНС: задолженность, блокировки, массовый адрес/руководитель, дисквалификация, банкротство (ключ - ИНН)",
+ "_count": 65,
+ "byInn": {
+  "0092935763": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0008932140": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002899265408": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0006160498": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002958657907": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002924606206": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0010199184": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0088580317": {
+   "taxDebt": 0.0,
+   "accountBlocked": 1,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0083749721": {
+   "taxDebt": 3823200.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "003062396855": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0001884232": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 1,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002940444249": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 1,
+   "bankruptcy": 0
+  },
+  "002923814316": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "003132875910": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 1
+  },
+  "002900057388": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0002834516": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002854127133": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "003091697180": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "003014882862": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002960241737": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0017167907": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002868381348": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0018514134": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002819283524": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0094598753": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0007744295": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "003103575616": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0075513962": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0090164113": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0078523180": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0072742315": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0004418310": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0080344558": {
+   "taxDebt": 71300.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "003098824215": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "003128124566": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0002042616": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0084779197": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0082403495": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0096103364": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "003073483411": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002974495957": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0016217626": {
+   "taxDebt": 140300.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002731382623": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0010753518": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "003158216743": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "003174054793": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002977663543": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002862838067": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0098795826": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0013841924": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0009328090": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0098558254": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002880259841": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002763850514": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0015346530": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0013921111": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002900849231": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0000696388": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0093410906": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0071792031": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "003097240489": {
+   "taxDebt": 19100.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0014713019": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0077335338": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "0004972649": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  },
+  "002865213779": {
+   "taxDebt": 0.0,
+   "accountBlocked": 0,
+   "massAddress": 0,
+   "massDirector": 0,
+   "disqualified": 0,
+   "bankruptcy": 0
+  }
+ }
+}

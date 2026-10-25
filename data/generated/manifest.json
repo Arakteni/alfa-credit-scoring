@@ -1,0 +1,13 @@
+{
+  "dataset_version": "synth-v1.0",
+  "seed": 42,
+  "notice": "СИНТЕТИЧЕСКИЕ ДАННЫЕ: сгенерированы командой хакатона; к реальным лицам и организациям не относятся. ИНН/ОГРН - из несуществующего диапазона (регион 00).",
+  "train_rows": 12000,
+  "train_default_rate": 0.1024,
+  "demo_pool_rows": 600,
+  "demo_date": "2026-10-26",
+  "files": {
+    "applications_raw.csv": "62e092b3ca0d155e6c0b44ea33f1e6742b25d6f203254b03477e2639aaccb89a",
+    "demo_pool_raw.csv": "55eefef55b656e9365b18729fb833d90102ccb42085f8385f11eb6cf6f71c6ac"
+  }
+}

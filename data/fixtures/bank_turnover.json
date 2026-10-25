@@ -1,0 +1,5080 @@
+{
+ "_synthetic": true,
+ "_notice": "СИНТЕТИЧЕСКИЕ ДАННЫЕ: сгенерированы командой хакатона; к реальным лицам и организациям не относятся. ИНН/ОГРН из несуществующего диапазона (код региона 00).",
+ "_datasetVersion": "synth-v1.0",
+ "_asOf": "2026-10-26",
+ "_description": "Обороты по расчётному счёту за 12 месяцев (ключ - ИНН)",
+ "_count": 65,
+ "byInn": {
+  "0092935763": {
+   "bankTenureMonths": 301,
+   "counterpartiesCnt": 10,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 326647.0,
+     "debitTurnover": 307861.0,
+     "endBalance": 138926.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 285629.0,
+     "debitTurnover": 291608.0,
+     "endBalance": 67815.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 338853.0,
+     "debitTurnover": 343723.0,
+     "endBalance": 25050.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 301772.0,
+     "debitTurnover": 303548.0,
+     "endBalance": 113303.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 341376.0,
+     "debitTurnover": 334285.0,
+     "endBalance": 13683.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 376570.0,
+     "debitTurnover": 387944.0,
+     "endBalance": 105143.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 407234.0,
+     "debitTurnover": 448986.0,
+     "endBalance": 202859.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 312585.0,
+     "debitTurnover": 283155.0,
+     "endBalance": 87320.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 386450.0,
+     "debitTurnover": 410333.0,
+     "endBalance": 204090.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 296158.0,
+     "debitTurnover": 282406.0,
+     "endBalance": 123820.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 403577.0,
+     "debitTurnover": 402787.0,
+     "endBalance": 147707.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 316978.0,
+     "debitTurnover": 305598.0,
+     "endBalance": 131711.0
+    }
+   ]
+  },
+  "0008932140": {
+   "bankTenureMonths": 19,
+   "counterpartiesCnt": 16,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1117727.0,
+     "debitTurnover": 990447.0,
+     "endBalance": 456406.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 1136609.0,
+     "debitTurnover": 953804.0,
+     "endBalance": 449296.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 948746.0,
+     "debitTurnover": 807724.0,
+     "endBalance": 432006.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1363264.0,
+     "debitTurnover": 1210268.0,
+     "endBalance": 385704.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 1100004.0,
+     "debitTurnover": 900152.0,
+     "endBalance": -3628.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1228581.0,
+     "debitTurnover": 998093.0,
+     "endBalance": 326155.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 1658684.0,
+     "debitTurnover": 1430868.0,
+     "endBalance": 561196.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1621362.0,
+     "debitTurnover": 1384421.0,
+     "endBalance": 236529.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 1023428.0,
+     "debitTurnover": 929726.0,
+     "endBalance": 262399.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1627921.0,
+     "debitTurnover": 1461674.0,
+     "endBalance": 208488.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1412375.0,
+     "debitTurnover": 1161610.0,
+     "endBalance": 171904.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1246792.0,
+     "debitTurnover": 1039442.0,
+     "endBalance": 443990.0
+    }
+   ]
+  },
+  "002899265408": {
+   "bankTenureMonths": 65,
+   "counterpartiesCnt": 3,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 340731.0,
+     "debitTurnover": 335704.0,
+     "endBalance": 97805.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 324705.0,
+     "debitTurnover": 299690.0,
+     "endBalance": 107133.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 402924.0,
+     "debitTurnover": 424094.0,
+     "endBalance": 92734.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 458391.0,
+     "debitTurnover": 413006.0,
+     "endBalance": -5728.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 329062.0,
+     "debitTurnover": 336484.0,
+     "endBalance": 110550.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 376384.0,
+     "debitTurnover": 355698.0,
+     "endBalance": 151245.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 399480.0,
+     "debitTurnover": 420250.0,
+     "endBalance": 76172.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 347049.0,
+     "debitTurnover": 343115.0,
+     "endBalance": 34540.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 442115.0,
+     "debitTurnover": 444024.0,
+     "endBalance": 41660.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 364229.0,
+     "debitTurnover": 338692.0,
+     "endBalance": 111728.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 399372.0,
+     "debitTurnover": 406409.0,
+     "endBalance": 17555.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 343360.0,
+     "debitTurnover": 324640.0,
+     "endBalance": 86429.0
+    }
+   ]
+  },
+  "0006160498": {
+   "bankTenureMonths": 14,
+   "counterpartiesCnt": 13,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1102525.0,
+     "debitTurnover": 1148750.0,
+     "endBalance": 48929.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 1239555.0,
+     "debitTurnover": 1267239.0,
+     "endBalance": 193004.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1305107.0,
+     "debitTurnover": 1288173.0,
+     "endBalance": 271734.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 858076.0,
+     "debitTurnover": 779757.0,
+     "endBalance": 100839.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 1470038.0,
+     "debitTurnover": 1564678.0,
+     "endBalance": -74650.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1162048.0,
+     "debitTurnover": 1190550.0,
+     "endBalance": 186768.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 1626648.0,
+     "debitTurnover": 1684184.0,
+     "endBalance": 108128.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1871776.0,
+     "debitTurnover": 1846136.0,
+     "endBalance": 222336.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 1215096.0,
+     "debitTurnover": 1200018.0,
+     "endBalance": 295801.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1321254.0,
+     "debitTurnover": 1241462.0,
+     "endBalance": 64204.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 843243.0,
+     "debitTurnover": 789599.0,
+     "endBalance": 321764.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 997572.0,
+     "debitTurnover": 1085435.0,
+     "endBalance": -219771.0
+    }
+   ]
+  },
+  "002958657907": {
+   "bankTenureMonths": 10,
+   "counterpartiesCnt": 3,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 144050.0,
+     "debitTurnover": 141814.0,
+     "endBalance": 11036.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 193589.0,
+     "debitTurnover": 186080.0,
+     "endBalance": 7058.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 215679.0,
+     "debitTurnover": 224538.0,
+     "endBalance": -1095.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 251064.0,
+     "debitTurnover": 251728.0,
+     "endBalance": -185.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 201615.0,
+     "debitTurnover": 209748.0,
+     "endBalance": 15364.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 258221.0,
+     "debitTurnover": 257702.0,
+     "endBalance": 26539.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 402242.0,
+     "debitTurnover": 386350.0,
+     "endBalance": -12353.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 501052.0,
+     "debitTurnover": 510296.0,
+     "endBalance": 3794.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 193372.0,
+     "debitTurnover": 173840.0,
+     "endBalance": 12574.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 244300.0,
+     "debitTurnover": 239895.0,
+     "endBalance": 7163.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 118071.0,
+     "debitTurnover": 114692.0,
+     "endBalance": 10031.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 136273.0,
+     "debitTurnover": 148717.0,
+     "endBalance": 13826.0
+    }
+   ]
+  },
+  "002924606206": {
+   "bankTenureMonths": 51,
+   "counterpartiesCnt": 28,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 3134856.0,
+     "debitTurnover": 2819003.0,
+     "endBalance": 606492.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 3634411.0,
+     "debitTurnover": 3259941.0,
+     "endBalance": 609542.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 5329893.0,
+     "debitTurnover": 4783258.0,
+     "endBalance": 668358.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 3965934.0,
+     "debitTurnover": 3547915.0,
+     "endBalance": 490101.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 5209098.0,
+     "debitTurnover": 4892442.0,
+     "endBalance": 376040.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 3202742.0,
+     "debitTurnover": 2990935.0,
+     "endBalance": 492107.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 2937433.0,
+     "debitTurnover": 2592799.0,
+     "endBalance": 349732.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 3309149.0,
+     "debitTurnover": 3084258.0,
+     "endBalance": 382883.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 3636719.0,
+     "debitTurnover": 3337991.0,
+     "endBalance": 691292.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 4075581.0,
+     "debitTurnover": 3818281.0,
+     "endBalance": 883524.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 4419855.0,
+     "debitTurnover": 3416329.0,
+     "endBalance": 381041.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 3938980.0,
+     "debitTurnover": 4024969.0,
+     "endBalance": 733335.0
+    }
+   ]
+  },
+  "0010199184": {
+   "bankTenureMonths": 47,
+   "counterpartiesCnt": 10,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 4183922.0,
+     "debitTurnover": 3946385.0,
+     "endBalance": 685141.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 3573210.0,
+     "debitTurnover": 3282352.0,
+     "endBalance": 564794.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 3443926.0,
+     "debitTurnover": 3444094.0,
+     "endBalance": 356495.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 3077308.0,
+     "debitTurnover": 3021479.0,
+     "endBalance": 1097902.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 3873292.0,
+     "debitTurnover": 3935091.0,
+     "endBalance": 597640.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 3931417.0,
+     "debitTurnover": 3372900.0,
+     "endBalance": 838578.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 3480286.0,
+     "debitTurnover": 3385789.0,
+     "endBalance": 220809.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 2962153.0,
+     "debitTurnover": 2749751.0,
+     "endBalance": 852508.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 3450666.0,
+     "debitTurnover": 3397208.0,
+     "endBalance": 1084619.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 4435798.0,
+     "debitTurnover": 4227200.0,
+     "endBalance": 477574.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 3685016.0,
+     "debitTurnover": 3229485.0,
+     "endBalance": 358241.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 2828253.0,
+     "debitTurnover": 2749878.0,
+     "endBalance": 395002.0
+    }
+   ]
+  },
+  "0088580317": {
+   "bankTenureMonths": 306,
+   "counterpartiesCnt": 10,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 5842781.0,
+     "debitTurnover": 5880867.0,
+     "endBalance": 1602496.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 6093885.0,
+     "debitTurnover": 6221814.0,
+     "endBalance": 1521814.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 3663527.0,
+     "debitTurnover": 3282991.0,
+     "endBalance": 961812.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 7005870.0,
+     "debitTurnover": 6787865.0,
+     "endBalance": 1556563.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 5516270.0,
+     "debitTurnover": 5988334.0,
+     "endBalance": 699410.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 6838006.0,
+     "debitTurnover": 7243974.0,
+     "endBalance": 2299049.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 4146692.0,
+     "debitTurnover": 4360057.0,
+     "endBalance": 600785.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 3601709.0,
+     "debitTurnover": 3744941.0,
+     "endBalance": 1112556.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 3085653.0,
+     "debitTurnover": 3291423.0,
+     "endBalance": 483277.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 2309265.0,
+     "debitTurnover": 2309094.0,
+     "endBalance": 1181339.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 3308656.0,
+     "debitTurnover": 3640133.0,
+     "endBalance": 3264388.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 2693186.0,
+     "debitTurnover": 2724782.0,
+     "endBalance": 816347.0
+    }
+   ]
+  },
+  "0083749721": {
+   "bankTenureMonths": 66,
+   "counterpartiesCnt": 19,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 2285528.0,
+     "debitTurnover": 2341075.0,
+     "endBalance": 389658.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 2793743.0,
+     "debitTurnover": 3109948.0,
+     "endBalance": 358349.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 2950708.0,
+     "debitTurnover": 2951484.0,
+     "endBalance": 312397.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 2294804.0,
+     "debitTurnover": 2242384.0,
+     "endBalance": 612066.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 2808623.0,
+     "debitTurnover": 2948124.0,
+     "endBalance": 304655.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 2531315.0,
+     "debitTurnover": 2532422.0,
+     "endBalance": 720357.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 4185907.0,
+     "debitTurnover": 4269173.0,
+     "endBalance": 277153.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 2608774.0,
+     "debitTurnover": 2621660.0,
+     "endBalance": 854678.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 2159042.0,
+     "debitTurnover": 2115666.0,
+     "endBalance": 630526.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 3401356.0,
+     "debitTurnover": 3291727.0,
+     "endBalance": 785748.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 2862846.0,
+     "debitTurnover": 3027528.0,
+     "endBalance": 310401.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 3102265.0,
+     "debitTurnover": 2978488.0,
+     "endBalance": 834949.0
+    }
+   ]
+  },
+  "003062396855": {
+   "bankTenureMonths": 90,
+   "counterpartiesCnt": 8,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 2349841.0,
+     "debitTurnover": 2464067.0,
+     "endBalance": 526798.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 1750654.0,
+     "debitTurnover": 1840299.0,
+     "endBalance": 284038.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1615909.0,
+     "debitTurnover": 1592150.0,
+     "endBalance": 204808.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1369030.0,
+     "debitTurnover": 1326044.0,
+     "endBalance": 11538.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 1567549.0,
+     "debitTurnover": 1532867.0,
+     "endBalance": 470127.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1636238.0,
+     "debitTurnover": 1772072.0,
+     "endBalance": 322283.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 1283051.0,
+     "debitTurnover": 1205514.0,
+     "endBalance": 277388.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1641949.0,
+     "debitTurnover": 1567084.0,
+     "endBalance": -27350.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 2369023.0,
+     "debitTurnover": 2693262.0,
+     "endBalance": 247151.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1548921.0,
+     "debitTurnover": 1451982.0,
+     "endBalance": 776070.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1889442.0,
+     "debitTurnover": 1896085.0,
+     "endBalance": 658760.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1965906.0,
+     "debitTurnover": 2085360.0,
+     "endBalance": 172784.0
+    }
+   ]
+  },
+  "0001884232": {
+   "bankTenureMonths": 41,
+   "counterpartiesCnt": 64,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 5260034.0,
+     "debitTurnover": 4280254.0,
+     "endBalance": 2227376.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 4211030.0,
+     "debitTurnover": 3476976.0,
+     "endBalance": 2255911.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 5516518.0,
+     "debitTurnover": 5013925.0,
+     "endBalance": 422728.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 3875946.0,
+     "debitTurnover": 3449288.0,
+     "endBalance": 1424304.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 5763175.0,
+     "debitTurnover": 4668913.0,
+     "endBalance": 1869203.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 3675044.0,
+     "debitTurnover": 3495294.0,
+     "endBalance": 1137910.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 3932283.0,
+     "debitTurnover": 3900291.0,
+     "endBalance": 1693901.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 3039293.0,
+     "debitTurnover": 2954074.0,
+     "endBalance": 1604041.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 4126855.0,
+     "debitTurnover": 3936763.0,
+     "endBalance": 3495546.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 4911184.0,
+     "debitTurnover": 4544940.0,
+     "endBalance": 823966.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 5226104.0,
+     "debitTurnover": 4887993.0,
+     "endBalance": 2164400.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 4932379.0,
+     "debitTurnover": 4066229.0,
+     "endBalance": 2009519.0
+    }
+   ]
+  },
+  "002940444249": {
+   "bankTenureMonths": 64,
+   "counterpartiesCnt": 11,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 300845.0,
+     "debitTurnover": 248940.0,
+     "endBalance": 65592.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 215227.0,
+     "debitTurnover": 188036.0,
+     "endBalance": 66986.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 207015.0,
+     "debitTurnover": 176347.0,
+     "endBalance": 86881.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 236887.0,
+     "debitTurnover": 219873.0,
+     "endBalance": 30873.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 256256.0,
+     "debitTurnover": 228332.0,
+     "endBalance": 32297.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 200549.0,
+     "debitTurnover": 190919.0,
+     "endBalance": 106463.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 163183.0,
+     "debitTurnover": 154697.0,
+     "endBalance": 92602.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 242521.0,
+     "debitTurnover": 212626.0,
+     "endBalance": 4428.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 248170.0,
+     "debitTurnover": 232943.0,
+     "endBalance": 46949.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 264121.0,
+     "debitTurnover": 228272.0,
+     "endBalance": 71474.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 212115.0,
+     "debitTurnover": 203299.0,
+     "endBalance": 25229.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 272443.0,
+     "debitTurnover": 245172.0,
+     "endBalance": 46626.0
+    }
+   ]
+  },
+  "002923814316": {
+   "bankTenureMonths": 3,
+   "counterpartiesCnt": 7,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1589365.0,
+     "debitTurnover": 1520831.0,
+     "endBalance": 377851.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 1588280.0,
+     "debitTurnover": 1442682.0,
+     "endBalance": 342610.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1497561.0,
+     "debitTurnover": 1238456.0,
+     "endBalance": 468137.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1404916.0,
+     "debitTurnover": 1259603.0,
+     "endBalance": 252482.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 2111090.0,
+     "debitTurnover": 1999807.0,
+     "endBalance": 479190.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1808057.0,
+     "debitTurnover": 1721082.0,
+     "endBalance": 89623.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 1882955.0,
+     "debitTurnover": 1650341.0,
+     "endBalance": 243384.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1752284.0,
+     "debitTurnover": 1629847.0,
+     "endBalance": 63622.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 1570283.0,
+     "debitTurnover": 1384950.0,
+     "endBalance": 255525.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1145088.0,
+     "debitTurnover": 978468.0,
+     "endBalance": 90939.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1310487.0,
+     "debitTurnover": 1198699.0,
+     "endBalance": 288699.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1247616.0,
+     "debitTurnover": 1119161.0,
+     "endBalance": 301716.0
+    }
+   ]
+  },
+  "003132875910": {
+   "bankTenureMonths": 38,
+   "counterpartiesCnt": 15,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 3579151.0,
+     "debitTurnover": 3479769.0,
+     "endBalance": 805423.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 2728796.0,
+     "debitTurnover": 2670254.0,
+     "endBalance": 624985.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 3131133.0,
+     "debitTurnover": 3087863.0,
+     "endBalance": 524550.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 2949783.0,
+     "debitTurnover": 2794598.0,
+     "endBalance": 505455.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 2989268.0,
+     "debitTurnover": 3041575.0,
+     "endBalance": 431073.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 3107194.0,
+     "debitTurnover": 2736221.0,
+     "endBalance": 308459.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 2764625.0,
+     "debitTurnover": 2553038.0,
+     "endBalance": 567835.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 2578705.0,
+     "debitTurnover": 2451923.0,
+     "endBalance": 522606.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 2587463.0,
+     "debitTurnover": 2444147.0,
+     "endBalance": 651953.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 3588400.0,
+     "debitTurnover": 3566223.0,
+     "endBalance": 145300.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 3192945.0,
+     "debitTurnover": 3012779.0,
+     "endBalance": 672583.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 3241901.0,
+     "debitTurnover": 2822298.0,
+     "endBalance": 294572.0
+    }
+   ]
+  },
+  "002900057388": {
+   "bankTenureMonths": 10,
+   "counterpartiesCnt": 13,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 2369084.0,
+     "debitTurnover": 2195040.0,
+     "endBalance": 1586866.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 2177171.0,
+     "debitTurnover": 2043537.0,
+     "endBalance": 1430489.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 2404790.0,
+     "debitTurnover": 2409450.0,
+     "endBalance": 479179.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 3451157.0,
+     "debitTurnover": 3299517.0,
+     "endBalance": 1252269.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 3584760.0,
+     "debitTurnover": 3835240.0,
+     "endBalance": 858053.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 3363964.0,
+     "debitTurnover": 3099487.0,
+     "endBalance": 776833.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 3536615.0,
+     "debitTurnover": 3569283.0,
+     "endBalance": 1909517.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 4096804.0,
+     "debitTurnover": 4115424.0,
+     "endBalance": 1093531.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 5001981.0,
+     "debitTurnover": 5367247.0,
+     "endBalance": 865982.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 2848153.0,
+     "debitTurnover": 2927512.0,
+     "endBalance": 1059275.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 2610608.0,
+     "debitTurnover": 2656776.0,
+     "endBalance": 844981.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 2692952.0,
+     "debitTurnover": 2804097.0,
+     "endBalance": 1009294.0
+    }
+   ]
+  },
+  "0002834516": {
+   "bankTenureMonths": 17,
+   "counterpartiesCnt": 21,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 8956059.0,
+     "debitTurnover": 8306552.0,
+     "endBalance": 1067366.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 10811070.0,
+     "debitTurnover": 10771067.0,
+     "endBalance": -121681.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 13157199.0,
+     "debitTurnover": 12249011.0,
+     "endBalance": 6402482.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 13739022.0,
+     "debitTurnover": 13378974.0,
+     "endBalance": 2479705.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 11969580.0,
+     "debitTurnover": 10869492.0,
+     "endBalance": 6068507.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 15191760.0,
+     "debitTurnover": 13233465.0,
+     "endBalance": 9237090.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 12029998.0,
+     "debitTurnover": 11384324.0,
+     "endBalance": 1716924.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 11395072.0,
+     "debitTurnover": 10000876.0,
+     "endBalance": 3183112.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 12903257.0,
+     "debitTurnover": 11791783.0,
+     "endBalance": 3652423.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 11357396.0,
+     "debitTurnover": 10405888.0,
+     "endBalance": -28229.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 13081266.0,
+     "debitTurnover": 12663303.0,
+     "endBalance": 998778.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 9303302.0,
+     "debitTurnover": 8627132.0,
+     "endBalance": 4943810.0
+    }
+   ]
+  },
+  "002854127133": {
+   "bankTenureMonths": 14,
+   "counterpartiesCnt": 5,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 412869.0,
+     "debitTurnover": 366429.0,
+     "endBalance": 94752.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 451005.0,
+     "debitTurnover": 412849.0,
+     "endBalance": 168241.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 477858.0,
+     "debitTurnover": 415491.0,
+     "endBalance": 136352.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 641607.0,
+     "debitTurnover": 548102.0,
+     "endBalance": 135925.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 685241.0,
+     "debitTurnover": 619383.0,
+     "endBalance": 262904.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 631133.0,
+     "debitTurnover": 553980.0,
+     "endBalance": 181492.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 751408.0,
+     "debitTurnover": 645187.0,
+     "endBalance": 68527.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 596983.0,
+     "debitTurnover": 528097.0,
+     "endBalance": 164096.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 722302.0,
+     "debitTurnover": 649910.0,
+     "endBalance": 329244.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 407987.0,
+     "debitTurnover": 375123.0,
+     "endBalance": 160162.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 487531.0,
+     "debitTurnover": 431036.0,
+     "endBalance": 241170.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 480605.0,
+     "debitTurnover": 426709.0,
+     "endBalance": 102539.0
+    }
+   ]
+  },
+  "003091697180": {
+   "bankTenureMonths": 66,
+   "counterpartiesCnt": 15,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 492826.0,
+     "debitTurnover": 472064.0,
+     "endBalance": 105714.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 631657.0,
+     "debitTurnover": 640122.0,
+     "endBalance": 93200.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 454929.0,
+     "debitTurnover": 456983.0,
+     "endBalance": 130688.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 616521.0,
+     "debitTurnover": 574732.0,
+     "endBalance": 227340.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 756974.0,
+     "debitTurnover": 719129.0,
+     "endBalance": 111886.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 599117.0,
+     "debitTurnover": 566544.0,
+     "endBalance": 87496.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 586627.0,
+     "debitTurnover": 560798.0,
+     "endBalance": 165225.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 538001.0,
+     "debitTurnover": 485699.0,
+     "endBalance": 245948.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 737988.0,
+     "debitTurnover": 714221.0,
+     "endBalance": 265944.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 699174.0,
+     "debitTurnover": 723441.0,
+     "endBalance": 132761.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 636661.0,
+     "debitTurnover": 608513.0,
+     "endBalance": 118695.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 597821.0,
+     "debitTurnover": 548677.0,
+     "endBalance": 169574.0
+    }
+   ]
+  },
+  "003014882862": {
+   "bankTenureMonths": 22,
+   "counterpartiesCnt": 10,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1019546.0,
+     "debitTurnover": 1054618.0,
+     "endBalance": 356897.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 1263554.0,
+     "debitTurnover": 1370502.0,
+     "endBalance": 225556.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 950871.0,
+     "debitTurnover": 1051444.0,
+     "endBalance": 411837.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1332672.0,
+     "debitTurnover": 1404518.0,
+     "endBalance": 376708.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 1181022.0,
+     "debitTurnover": 1299080.0,
+     "endBalance": 377564.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1021977.0,
+     "debitTurnover": 1030295.0,
+     "endBalance": 385812.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 796220.0,
+     "debitTurnover": 815698.0,
+     "endBalance": 83396.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 934283.0,
+     "debitTurnover": 948085.0,
+     "endBalance": 414966.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 807939.0,
+     "debitTurnover": 931014.0,
+     "endBalance": 62448.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 925332.0,
+     "debitTurnover": 1015639.0,
+     "endBalance": 138235.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 865126.0,
+     "debitTurnover": 950956.0,
+     "endBalance": 273250.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 791759.0,
+     "debitTurnover": 853007.0,
+     "endBalance": 228700.0
+    }
+   ]
+  },
+  "002960241737": {
+   "bankTenureMonths": 25,
+   "counterpartiesCnt": 17,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1430683.0,
+     "debitTurnover": 1300895.0,
+     "endBalance": -35759.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 1334114.0,
+     "debitTurnover": 1184907.0,
+     "endBalance": 217925.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1410600.0,
+     "debitTurnover": 1336773.0,
+     "endBalance": 387887.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1320747.0,
+     "debitTurnover": 1201871.0,
+     "endBalance": 395240.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 1772208.0,
+     "debitTurnover": 1550936.0,
+     "endBalance": 335364.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1334281.0,
+     "debitTurnover": 1287792.0,
+     "endBalance": 47192.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 1395532.0,
+     "debitTurnover": 1227646.0,
+     "endBalance": 167685.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1750080.0,
+     "debitTurnover": 1565622.0,
+     "endBalance": 124764.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 1789876.0,
+     "debitTurnover": 1528454.0,
+     "endBalance": 273006.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1377598.0,
+     "debitTurnover": 1284636.0,
+     "endBalance": 293073.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1562639.0,
+     "debitTurnover": 1521489.0,
+     "endBalance": 349460.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1293962.0,
+     "debitTurnover": 1131205.0,
+     "endBalance": 436967.0
+    }
+   ]
+  },
+  "0017167907": {
+   "bankTenureMonths": 5,
+   "counterpartiesCnt": 13,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 2428062.0,
+     "debitTurnover": 2228451.0,
+     "endBalance": 1353437.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 2677013.0,
+     "debitTurnover": 2502535.0,
+     "endBalance": 402558.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 2774428.0,
+     "debitTurnover": 2897592.0,
+     "endBalance": 717944.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 2906383.0,
+     "debitTurnover": 2930727.0,
+     "endBalance": 1293177.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 3805741.0,
+     "debitTurnover": 3907350.0,
+     "endBalance": 264383.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 4245332.0,
+     "debitTurnover": 4368961.0,
+     "endBalance": 908595.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 2909679.0,
+     "debitTurnover": 3073423.0,
+     "endBalance": 947465.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 4941441.0,
+     "debitTurnover": 4738611.0,
+     "endBalance": 724685.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 2959566.0,
+     "debitTurnover": 2802979.0,
+     "endBalance": 1030150.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 3657827.0,
+     "debitTurnover": 3390919.0,
+     "endBalance": 1093667.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 3343007.0,
+     "debitTurnover": 3274579.0,
+     "endBalance": 899429.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 3716653.0,
+     "debitTurnover": 3511011.0,
+     "endBalance": 838165.0
+    }
+   ]
+  },
+  "002868381348": {
+   "bankTenureMonths": 4,
+   "counterpartiesCnt": 11,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 954929.0,
+     "debitTurnover": 888267.0,
+     "endBalance": 235744.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 767134.0,
+     "debitTurnover": 719174.0,
+     "endBalance": 104868.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 833286.0,
+     "debitTurnover": 773141.0,
+     "endBalance": 178379.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 845683.0,
+     "debitTurnover": 817456.0,
+     "endBalance": 375663.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 798115.0,
+     "debitTurnover": 690558.0,
+     "endBalance": 585955.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 934016.0,
+     "debitTurnover": 855169.0,
+     "endBalance": 484502.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 751850.0,
+     "debitTurnover": 695691.0,
+     "endBalance": 454922.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 828409.0,
+     "debitTurnover": 798153.0,
+     "endBalance": 382737.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 847849.0,
+     "debitTurnover": 759433.0,
+     "endBalance": 281308.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 783371.0,
+     "debitTurnover": 657525.0,
+     "endBalance": 381283.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 745808.0,
+     "debitTurnover": 698358.0,
+     "endBalance": 171103.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 805230.0,
+     "debitTurnover": 716029.0,
+     "endBalance": 98694.0
+    }
+   ]
+  },
+  "0018514134": {
+   "bankTenureMonths": 12,
+   "counterpartiesCnt": 8,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 2008804.0,
+     "debitTurnover": 1991103.0,
+     "endBalance": 262818.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 1814751.0,
+     "debitTurnover": 1681445.0,
+     "endBalance": 241644.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1061572.0,
+     "debitTurnover": 981346.0,
+     "endBalance": 421293.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1756937.0,
+     "debitTurnover": 1575065.0,
+     "endBalance": 162430.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 2093705.0,
+     "debitTurnover": 1931322.0,
+     "endBalance": 346160.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 2297458.0,
+     "debitTurnover": 2141728.0,
+     "endBalance": 319945.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 2598506.0,
+     "debitTurnover": 2575788.0,
+     "endBalance": 379460.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1853312.0,
+     "debitTurnover": 1775642.0,
+     "endBalance": 290147.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 1729738.0,
+     "debitTurnover": 1691717.0,
+     "endBalance": 392064.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 2026766.0,
+     "debitTurnover": 2028908.0,
+     "endBalance": 135566.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1875335.0,
+     "debitTurnover": 1821160.0,
+     "endBalance": 269844.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1964626.0,
+     "debitTurnover": 1821872.0,
+     "endBalance": 334199.0
+    }
+   ]
+  },
+  "002819283524": {
+   "bankTenureMonths": 89,
+   "counterpartiesCnt": 9,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1741382.0,
+     "debitTurnover": 1790240.0,
+     "endBalance": 600895.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 2431220.0,
+     "debitTurnover": 2205672.0,
+     "endBalance": 234136.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1662464.0,
+     "debitTurnover": 1635585.0,
+     "endBalance": 526869.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 2006178.0,
+     "debitTurnover": 1916687.0,
+     "endBalance": 746032.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 2029840.0,
+     "debitTurnover": 2084358.0,
+     "endBalance": 576511.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 2204981.0,
+     "debitTurnover": 1946112.0,
+     "endBalance": 1046106.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 1686645.0,
+     "debitTurnover": 1575722.0,
+     "endBalance": 105413.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 2264583.0,
+     "debitTurnover": 2363198.0,
+     "endBalance": 241859.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 2042391.0,
+     "debitTurnover": 2209772.0,
+     "endBalance": 464103.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 2586392.0,
+     "debitTurnover": 2613491.0,
+     "endBalance": 506737.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 2004701.0,
+     "debitTurnover": 2131178.0,
+     "endBalance": 181369.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 2354499.0,
+     "debitTurnover": 2254992.0,
+     "endBalance": 299987.0
+    }
+   ]
+  },
+  "0094598753": {
+   "bankTenureMonths": 30,
+   "counterpartiesCnt": 12,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 2113133.0,
+     "debitTurnover": 2022776.0,
+     "endBalance": 420778.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 3008234.0,
+     "debitTurnover": 2960010.0,
+     "endBalance": 183254.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 2111551.0,
+     "debitTurnover": 2140980.0,
+     "endBalance": 481089.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 2161722.0,
+     "debitTurnover": 1977810.0,
+     "endBalance": 260859.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 2304603.0,
+     "debitTurnover": 2288100.0,
+     "endBalance": 509206.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 2043187.0,
+     "debitTurnover": 2136399.0,
+     "endBalance": 516336.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 2254763.0,
+     "debitTurnover": 2145690.0,
+     "endBalance": 516041.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1922035.0,
+     "debitTurnover": 1795445.0,
+     "endBalance": 146189.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 2531953.0,
+     "debitTurnover": 2517379.0,
+     "endBalance": 439814.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 2025044.0,
+     "debitTurnover": 1970419.0,
+     "endBalance": 76145.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 2578759.0,
+     "debitTurnover": 2431940.0,
+     "endBalance": 286491.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1884483.0,
+     "debitTurnover": 1579897.0,
+     "endBalance": 405797.0
+    }
+   ]
+  },
+  "0007744295": {
+   "bankTenureMonths": 48,
+   "counterpartiesCnt": 28,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 3677688.0,
+     "debitTurnover": 3237996.0,
+     "endBalance": 245579.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 3621960.0,
+     "debitTurnover": 3251141.0,
+     "endBalance": 111619.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 4216245.0,
+     "debitTurnover": 3815278.0,
+     "endBalance": 317257.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 4711312.0,
+     "debitTurnover": 4067365.0,
+     "endBalance": 229633.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 4483563.0,
+     "debitTurnover": 3748239.0,
+     "endBalance": 184128.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 4158879.0,
+     "debitTurnover": 3908618.0,
+     "endBalance": 106028.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 3390064.0,
+     "debitTurnover": 2911231.0,
+     "endBalance": 158624.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 2221055.0,
+     "debitTurnover": 1850178.0,
+     "endBalance": 205697.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 2201267.0,
+     "debitTurnover": 2031809.0,
+     "endBalance": 53483.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 2513818.0,
+     "debitTurnover": 2265441.0,
+     "endBalance": 294770.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1959756.0,
+     "debitTurnover": 1690088.0,
+     "endBalance": 186929.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1950396.0,
+     "debitTurnover": 1607808.0,
+     "endBalance": 261441.0
+    }
+   ]
+  },
+  "003103575616": {
+   "bankTenureMonths": 13,
+   "counterpartiesCnt": 5,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 209242.0,
+     "debitTurnover": 184797.0,
+     "endBalance": 48904.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 216540.0,
+     "debitTurnover": 179924.0,
+     "endBalance": 104023.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 207493.0,
+     "debitTurnover": 190201.0,
+     "endBalance": 81712.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 257828.0,
+     "debitTurnover": 251386.0,
+     "endBalance": 56108.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 240793.0,
+     "debitTurnover": 212058.0,
+     "endBalance": 119915.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 257082.0,
+     "debitTurnover": 247407.0,
+     "endBalance": 51679.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 309122.0,
+     "debitTurnover": 282541.0,
+     "endBalance": 32283.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 364176.0,
+     "debitTurnover": 378356.0,
+     "endBalance": 84107.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 304236.0,
+     "debitTurnover": 267697.0,
+     "endBalance": 67494.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 247361.0,
+     "debitTurnover": 204235.0,
+     "endBalance": 52366.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 288105.0,
+     "debitTurnover": 240066.0,
+     "endBalance": 74758.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 312974.0,
+     "debitTurnover": 279195.0,
+     "endBalance": 48635.0
+    }
+   ]
+  },
+  "0075513962": {
+   "bankTenureMonths": 17,
+   "counterpartiesCnt": 51,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 15964272.0,
+     "debitTurnover": 14320437.0,
+     "endBalance": 8298236.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 11993451.0,
+     "debitTurnover": 10943265.0,
+     "endBalance": 5595676.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 13688771.0,
+     "debitTurnover": 12880644.0,
+     "endBalance": 4627838.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 13924427.0,
+     "debitTurnover": 13600060.0,
+     "endBalance": 6271130.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 14466671.0,
+     "debitTurnover": 14022456.0,
+     "endBalance": 1793756.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 16442986.0,
+     "debitTurnover": 15595337.0,
+     "endBalance": 4155368.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 23049708.0,
+     "debitTurnover": 21065401.0,
+     "endBalance": 4289298.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 22352125.0,
+     "debitTurnover": 20481956.0,
+     "endBalance": 3753257.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 16555968.0,
+     "debitTurnover": 16049753.0,
+     "endBalance": 5564747.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 21160459.0,
+     "debitTurnover": 19528816.0,
+     "endBalance": 4486866.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 20536232.0,
+     "debitTurnover": 19573879.0,
+     "endBalance": 2597088.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 18718180.0,
+     "debitTurnover": 18221997.0,
+     "endBalance": 1590492.0
+    }
+   ]
+  },
+  "0090164113": {
+   "bankTenureMonths": 22,
+   "counterpartiesCnt": 19,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 805286.0,
+     "debitTurnover": 752527.0,
+     "endBalance": 37857.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 794393.0,
+     "debitTurnover": 779556.0,
+     "endBalance": 172679.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1103884.0,
+     "debitTurnover": 1206600.0,
+     "endBalance": 156157.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 839858.0,
+     "debitTurnover": 884823.0,
+     "endBalance": 87246.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 772453.0,
+     "debitTurnover": 790267.0,
+     "endBalance": 86384.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 694397.0,
+     "debitTurnover": 713435.0,
+     "endBalance": 170088.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 1032939.0,
+     "debitTurnover": 1042498.0,
+     "endBalance": 49096.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1064891.0,
+     "debitTurnover": 1077960.0,
+     "endBalance": 158032.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 1153658.0,
+     "debitTurnover": 1166732.0,
+     "endBalance": 161516.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 694514.0,
+     "debitTurnover": 718921.0,
+     "endBalance": 153585.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1123746.0,
+     "debitTurnover": 1091567.0,
+     "endBalance": 121284.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1015709.0,
+     "debitTurnover": 1072428.0,
+     "endBalance": 146436.0
+    }
+   ]
+  },
+  "0078523180": {
+   "bankTenureMonths": 70,
+   "counterpartiesCnt": 33,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1301165.0,
+     "debitTurnover": 1347467.0,
+     "endBalance": 37214.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 1079903.0,
+     "debitTurnover": 1104732.0,
+     "endBalance": 54904.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1362900.0,
+     "debitTurnover": 1412584.0,
+     "endBalance": 29971.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1049527.0,
+     "debitTurnover": 1078440.0,
+     "endBalance": 45664.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 1087146.0,
+     "debitTurnover": 1227007.0,
+     "endBalance": 21481.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1361693.0,
+     "debitTurnover": 1447898.0,
+     "endBalance": 2382.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 987237.0,
+     "debitTurnover": 1028629.0,
+     "endBalance": 84464.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1397886.0,
+     "debitTurnover": 1512744.0,
+     "endBalance": 35956.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 1285192.0,
+     "debitTurnover": 1461113.0,
+     "endBalance": 24224.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1258718.0,
+     "debitTurnover": 1222912.0,
+     "endBalance": 6743.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1148018.0,
+     "debitTurnover": 1236517.0,
+     "endBalance": 30110.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1337903.0,
+     "debitTurnover": 1379389.0,
+     "endBalance": 16159.0
+    }
+   ]
+  },
+  "0072742315": {
+   "bankTenureMonths": 34,
+   "counterpartiesCnt": 7,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 748753.0,
+     "debitTurnover": 683940.0,
+     "endBalance": 237606.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 639863.0,
+     "debitTurnover": 588721.0,
+     "endBalance": 78028.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 616900.0,
+     "debitTurnover": 592950.0,
+     "endBalance": 263357.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 679594.0,
+     "debitTurnover": 611623.0,
+     "endBalance": 24998.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 907961.0,
+     "debitTurnover": 848618.0,
+     "endBalance": -34702.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 587995.0,
+     "debitTurnover": 511562.0,
+     "endBalance": 77667.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 924693.0,
+     "debitTurnover": 850046.0,
+     "endBalance": 112932.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1007159.0,
+     "debitTurnover": 956570.0,
+     "endBalance": 58738.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 654133.0,
+     "debitTurnover": 649490.0,
+     "endBalance": 182598.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 779140.0,
+     "debitTurnover": 780475.0,
+     "endBalance": 37620.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 744705.0,
+     "debitTurnover": 781113.0,
+     "endBalance": 56596.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 868666.0,
+     "debitTurnover": 792275.0,
+     "endBalance": 194284.0
+    }
+   ]
+  },
+  "0004418310": {
+   "bankTenureMonths": 143,
+   "counterpartiesCnt": 24,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 2432943.0,
+     "debitTurnover": 2459097.0,
+     "endBalance": 232396.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 2316685.0,
+     "debitTurnover": 1967184.0,
+     "endBalance": 283057.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 2350921.0,
+     "debitTurnover": 2107432.0,
+     "endBalance": 289200.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 2828512.0,
+     "debitTurnover": 2380890.0,
+     "endBalance": 95249.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 3113983.0,
+     "debitTurnover": 2786300.0,
+     "endBalance": -29711.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 3037647.0,
+     "debitTurnover": 2602947.0,
+     "endBalance": 577.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 3425321.0,
+     "debitTurnover": 3407349.0,
+     "endBalance": 164682.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 3463030.0,
+     "debitTurnover": 3249321.0,
+     "endBalance": 106946.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 4170244.0,
+     "debitTurnover": 3663724.0,
+     "endBalance": -11777.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 2845236.0,
+     "debitTurnover": 2601864.0,
+     "endBalance": 204107.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 2977432.0,
+     "debitTurnover": 2766486.0,
+     "endBalance": 132390.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 2703304.0,
+     "debitTurnover": 2276852.0,
+     "endBalance": 175805.0
+    }
+   ]
+  },
+  "0080344558": {
+   "bankTenureMonths": 10,
+   "counterpartiesCnt": 27,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 3570815.0,
+     "debitTurnover": 3253730.0,
+     "endBalance": 88845.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 4083772.0,
+     "debitTurnover": 4178705.0,
+     "endBalance": 709712.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 3577298.0,
+     "debitTurnover": 3182334.0,
+     "endBalance": 1490855.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 4711409.0,
+     "debitTurnover": 4529552.0,
+     "endBalance": 890571.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 4999967.0,
+     "debitTurnover": 4713557.0,
+     "endBalance": 342772.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 6946912.0,
+     "debitTurnover": 6970448.0,
+     "endBalance": 581641.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 5518664.0,
+     "debitTurnover": 5360332.0,
+     "endBalance": 450709.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 5914756.0,
+     "debitTurnover": 6018284.0,
+     "endBalance": 621114.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 3363839.0,
+     "debitTurnover": 2992535.0,
+     "endBalance": 99035.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 5441987.0,
+     "debitTurnover": 4672130.0,
+     "endBalance": 454028.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 6222938.0,
+     "debitTurnover": 5886343.0,
+     "endBalance": 503714.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 5300275.0,
+     "debitTurnover": 5005381.0,
+     "endBalance": 336446.0
+    }
+   ]
+  },
+  "003098824215": {
+   "bankTenureMonths": 18,
+   "counterpartiesCnt": 17,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 488122.0,
+     "debitTurnover": 478154.0,
+     "endBalance": 162059.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 505449.0,
+     "debitTurnover": 493117.0,
+     "endBalance": 57344.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 352265.0,
+     "debitTurnover": 331518.0,
+     "endBalance": 179609.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 522734.0,
+     "debitTurnover": 495331.0,
+     "endBalance": 82398.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 650218.0,
+     "debitTurnover": 660432.0,
+     "endBalance": 123421.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 535356.0,
+     "debitTurnover": 565608.0,
+     "endBalance": 20927.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 627847.0,
+     "debitTurnover": 671951.0,
+     "endBalance": 165202.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 266130.0,
+     "debitTurnover": 283591.0,
+     "endBalance": 195845.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 379125.0,
+     "debitTurnover": 394308.0,
+     "endBalance": 125490.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 347068.0,
+     "debitTurnover": 378789.0,
+     "endBalance": 113783.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 256903.0,
+     "debitTurnover": 251558.0,
+     "endBalance": 153652.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 260690.0,
+     "debitTurnover": 284637.0,
+     "endBalance": 12773.0
+    }
+   ]
+  },
+  "003128124566": {
+   "bankTenureMonths": 6,
+   "counterpartiesCnt": 14,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 2059384.0,
+     "debitTurnover": 1960107.0,
+     "endBalance": 120968.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 1963879.0,
+     "debitTurnover": 1863984.0,
+     "endBalance": 205188.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1785473.0,
+     "debitTurnover": 1865027.0,
+     "endBalance": 274264.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1970388.0,
+     "debitTurnover": 1898019.0,
+     "endBalance": 166527.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 2484699.0,
+     "debitTurnover": 2434166.0,
+     "endBalance": 167091.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 2313021.0,
+     "debitTurnover": 2616248.0,
+     "endBalance": -57022.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 2490246.0,
+     "debitTurnover": 2347034.0,
+     "endBalance": 391653.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 2111147.0,
+     "debitTurnover": 1922189.0,
+     "endBalance": 325788.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 1599658.0,
+     "debitTurnover": 1588139.0,
+     "endBalance": 74510.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1940706.0,
+     "debitTurnover": 1920910.0,
+     "endBalance": 129075.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 2228936.0,
+     "debitTurnover": 2164973.0,
+     "endBalance": 249402.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 2107547.0,
+     "debitTurnover": 2088468.0,
+     "endBalance": 193144.0
+    }
+   ]
+  },
+  "0002042616": {
+   "bankTenureMonths": 20,
+   "counterpartiesCnt": 14,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1453520.0,
+     "debitTurnover": 1288976.0,
+     "endBalance": 50525.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 1039730.0,
+     "debitTurnover": 969574.0,
+     "endBalance": 34840.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 794845.0,
+     "debitTurnover": 698031.0,
+     "endBalance": 11469.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 972108.0,
+     "debitTurnover": 898114.0,
+     "endBalance": 46496.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 1227746.0,
+     "debitTurnover": 1205338.0,
+     "endBalance": 44580.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 930656.0,
+     "debitTurnover": 880487.0,
+     "endBalance": 36814.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 993197.0,
+     "debitTurnover": 951157.0,
+     "endBalance": 36766.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1114283.0,
+     "debitTurnover": 995560.0,
+     "endBalance": 43290.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 1467020.0,
+     "debitTurnover": 1256094.0,
+     "endBalance": 22299.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1205805.0,
+     "debitTurnover": 1114470.0,
+     "endBalance": 57001.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 846934.0,
+     "debitTurnover": 835137.0,
+     "endBalance": 41134.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1141747.0,
+     "debitTurnover": 1099839.0,
+     "endBalance": 52598.0
+    }
+   ]
+  },
+  "0084779197": {
+   "bankTenureMonths": 69,
+   "counterpartiesCnt": 16,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 195083.0,
+     "debitTurnover": 177591.0,
+     "endBalance": 44110.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 271142.0,
+     "debitTurnover": 288246.0,
+     "endBalance": 21387.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 185930.0,
+     "debitTurnover": 183133.0,
+     "endBalance": 34033.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 272957.0,
+     "debitTurnover": 263550.0,
+     "endBalance": -10111.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 228202.0,
+     "debitTurnover": 222796.0,
+     "endBalance": 22290.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 263545.0,
+     "debitTurnover": 257531.0,
+     "endBalance": 14320.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 262388.0,
+     "debitTurnover": 245396.0,
+     "endBalance": -34447.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 272181.0,
+     "debitTurnover": 253091.0,
+     "endBalance": 1571.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 245243.0,
+     "debitTurnover": 233477.0,
+     "endBalance": 22843.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 172694.0,
+     "debitTurnover": 180871.0,
+     "endBalance": 22213.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 191199.0,
+     "debitTurnover": 181454.0,
+     "endBalance": 36557.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 206670.0,
+     "debitTurnover": 206009.0,
+     "endBalance": 35881.0
+    }
+   ]
+  },
+  "0082403495": {
+   "bankTenureMonths": 23,
+   "counterpartiesCnt": 4,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 4452378.0,
+     "debitTurnover": 4014534.0,
+     "endBalance": 1166254.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 3709201.0,
+     "debitTurnover": 3261130.0,
+     "endBalance": 376712.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 5742418.0,
+     "debitTurnover": 5834459.0,
+     "endBalance": 405510.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 5214866.0,
+     "debitTurnover": 4853111.0,
+     "endBalance": 124327.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 4618381.0,
+     "debitTurnover": 4551782.0,
+     "endBalance": 1171650.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 4922332.0,
+     "debitTurnover": 4656476.0,
+     "endBalance": 846323.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 5193336.0,
+     "debitTurnover": 5323634.0,
+     "endBalance": 550911.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 3500565.0,
+     "debitTurnover": 3253712.0,
+     "endBalance": 1311913.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 4269530.0,
+     "debitTurnover": 3913653.0,
+     "endBalance": 917276.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 4684696.0,
+     "debitTurnover": 3935415.0,
+     "endBalance": 1135302.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 3779943.0,
+     "debitTurnover": 3474563.0,
+     "endBalance": 492394.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 4694704.0,
+     "debitTurnover": 4525629.0,
+     "endBalance": 1272522.0
+    }
+   ]
+  },
+  "0096103364": {
+   "bankTenureMonths": 26,
+   "counterpartiesCnt": 11,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 283445.0,
+     "debitTurnover": 233763.0,
+     "endBalance": 61343.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 234038.0,
+     "debitTurnover": 207385.0,
+     "endBalance": 15971.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 224315.0,
+     "debitTurnover": 202420.0,
+     "endBalance": 5333.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 328344.0,
+     "debitTurnover": 289291.0,
+     "endBalance": 89857.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 478158.0,
+     "debitTurnover": 428624.0,
+     "endBalance": 83443.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 357904.0,
+     "debitTurnover": 308169.0,
+     "endBalance": 36065.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 331414.0,
+     "debitTurnover": 267891.0,
+     "endBalance": 46578.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 307959.0,
+     "debitTurnover": 270411.0,
+     "endBalance": 64562.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 299292.0,
+     "debitTurnover": 276813.0,
+     "endBalance": 78702.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 446137.0,
+     "debitTurnover": 414337.0,
+     "endBalance": 93853.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 337534.0,
+     "debitTurnover": 310755.0,
+     "endBalance": 9515.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 375675.0,
+     "debitTurnover": 340011.0,
+     "endBalance": 64592.0
+    }
+   ]
+  },
+  "003073483411": {
+   "bankTenureMonths": 11,
+   "counterpartiesCnt": 14,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1418176.0,
+     "debitTurnover": 1415144.0,
+     "endBalance": 2906.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 2271020.0,
+     "debitTurnover": 2138552.0,
+     "endBalance": 11083.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1502194.0,
+     "debitTurnover": 1395936.0,
+     "endBalance": 14747.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1747343.0,
+     "debitTurnover": 1670620.0,
+     "endBalance": 9601.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 1514791.0,
+     "debitTurnover": 1357695.0,
+     "endBalance": 7863.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1805874.0,
+     "debitTurnover": 1523258.0,
+     "endBalance": 21029.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 2964504.0,
+     "debitTurnover": 2684548.0,
+     "endBalance": 8030.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 3005285.0,
+     "debitTurnover": 2640308.0,
+     "endBalance": 31602.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 2247731.0,
+     "debitTurnover": 2295118.0,
+     "endBalance": 12367.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 2279798.0,
+     "debitTurnover": 2265846.0,
+     "endBalance": 6371.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1797854.0,
+     "debitTurnover": 1579462.0,
+     "endBalance": 32237.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1757029.0,
+     "debitTurnover": 1804349.0,
+     "endBalance": 840.0
+    }
+   ]
+  },
+  "002974495957": {
+   "bankTenureMonths": 88,
+   "counterpartiesCnt": 30,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 5982775.0,
+     "debitTurnover": 6081395.0,
+     "endBalance": 29030.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 6918513.0,
+     "debitTurnover": 7145403.0,
+     "endBalance": 36644.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 7754167.0,
+     "debitTurnover": 7431648.0,
+     "endBalance": 31729.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 12587668.0,
+     "debitTurnover": 12877005.0,
+     "endBalance": -17465.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 6760364.0,
+     "debitTurnover": 6244463.0,
+     "endBalance": 49295.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 9900472.0,
+     "debitTurnover": 10483826.0,
+     "endBalance": 51413.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 10029970.0,
+     "debitTurnover": 10565628.0,
+     "endBalance": 34794.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 7739356.0,
+     "debitTurnover": 7611106.0,
+     "endBalance": 52355.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 10373441.0,
+     "debitTurnover": 10544376.0,
+     "endBalance": 18562.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 3672211.0,
+     "debitTurnover": 3701761.0,
+     "endBalance": 1662.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 3595956.0,
+     "debitTurnover": 3876872.0,
+     "endBalance": 38533.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 4404627.0,
+     "debitTurnover": 4396992.0,
+     "endBalance": 17552.0
+    }
+   ]
+  },
+  "0016217626": {
+   "bankTenureMonths": 15,
+   "counterpartiesCnt": 9,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 561293.0,
+     "debitTurnover": 534613.0,
+     "endBalance": 3195.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 532895.0,
+     "debitTurnover": 485543.0,
+     "endBalance": -351.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 461225.0,
+     "debitTurnover": 459152.0,
+     "endBalance": 1220.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 613537.0,
+     "debitTurnover": 571141.0,
+     "endBalance": 2491.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 469109.0,
+     "debitTurnover": 432777.0,
+     "endBalance": -406.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 556104.0,
+     "debitTurnover": 493014.0,
+     "endBalance": 1136.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 185697.0,
+     "debitTurnover": 162317.0,
+     "endBalance": -972.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 259438.0,
+     "debitTurnover": 237877.0,
+     "endBalance": 4760.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 336078.0,
+     "debitTurnover": 323012.0,
+     "endBalance": 3570.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 149510.0,
+     "debitTurnover": 125257.0,
+     "endBalance": 229.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 239444.0,
+     "debitTurnover": 223407.0,
+     "endBalance": -845.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 211903.0,
+     "debitTurnover": 182120.0,
+     "endBalance": 99.0
+    }
+   ]
+  },
+  "002731382623": {
+   "bankTenureMonths": 23,
+   "counterpartiesCnt": 5,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 903337.0,
+     "debitTurnover": 847940.0,
+     "endBalance": 161298.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 902189.0,
+     "debitTurnover": 785184.0,
+     "endBalance": 49052.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 777848.0,
+     "debitTurnover": 743198.0,
+     "endBalance": 108896.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 685409.0,
+     "debitTurnover": 649537.0,
+     "endBalance": 177464.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 899935.0,
+     "debitTurnover": 867409.0,
+     "endBalance": 150627.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1051431.0,
+     "debitTurnover": 981865.0,
+     "endBalance": 216412.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 1265744.0,
+     "debitTurnover": 1241570.0,
+     "endBalance": 178441.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 830780.0,
+     "debitTurnover": 744868.0,
+     "endBalance": 138305.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 875027.0,
+     "debitTurnover": 803277.0,
+     "endBalance": 119762.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 901130.0,
+     "debitTurnover": 873002.0,
+     "endBalance": 101798.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 739138.0,
+     "debitTurnover": 651606.0,
+     "endBalance": 197391.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1023181.0,
+     "debitTurnover": 966878.0,
+     "endBalance": 211355.0
+    }
+   ]
+  },
+  "0010753518": {
+   "bankTenureMonths": 26,
+   "counterpartiesCnt": 35,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1647288.0,
+     "debitTurnover": 1458515.0,
+     "endBalance": 157351.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 1812838.0,
+     "debitTurnover": 1676024.0,
+     "endBalance": 186644.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1383583.0,
+     "debitTurnover": 1196396.0,
+     "endBalance": 237733.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1284983.0,
+     "debitTurnover": 1147902.0,
+     "endBalance": 147073.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 1757537.0,
+     "debitTurnover": 1505032.0,
+     "endBalance": 118560.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1495254.0,
+     "debitTurnover": 1320539.0,
+     "endBalance": 308757.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 2064199.0,
+     "debitTurnover": 1729706.0,
+     "endBalance": 182103.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1933896.0,
+     "debitTurnover": 1536970.0,
+     "endBalance": 87046.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 1844422.0,
+     "debitTurnover": 1634139.0,
+     "endBalance": 90358.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1741568.0,
+     "debitTurnover": 1566158.0,
+     "endBalance": 117574.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1733799.0,
+     "debitTurnover": 1435458.0,
+     "endBalance": 146404.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1964717.0,
+     "debitTurnover": 1731982.0,
+     "endBalance": 114410.0
+    }
+   ]
+  },
+  "003158216743": {
+   "bankTenureMonths": 50,
+   "counterpartiesCnt": 20,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 547143.0,
+     "debitTurnover": 512796.0,
+     "endBalance": 23237.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 650028.0,
+     "debitTurnover": 598447.0,
+     "endBalance": 13393.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 671195.0,
+     "debitTurnover": 636480.0,
+     "endBalance": 47145.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 413229.0,
+     "debitTurnover": 375128.0,
+     "endBalance": 60.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 576534.0,
+     "debitTurnover": 585110.0,
+     "endBalance": 76218.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 605978.0,
+     "debitTurnover": 567920.0,
+     "endBalance": 38037.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 401481.0,
+     "debitTurnover": 393036.0,
+     "endBalance": 43245.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 407273.0,
+     "debitTurnover": 419930.0,
+     "endBalance": 16281.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 276518.0,
+     "debitTurnover": 294259.0,
+     "endBalance": 10498.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 320664.0,
+     "debitTurnover": 315478.0,
+     "endBalance": 51560.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 365436.0,
+     "debitTurnover": 364490.0,
+     "endBalance": 47599.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 376949.0,
+     "debitTurnover": 366501.0,
+     "endBalance": 60183.0
+    }
+   ]
+  },
+  "003174054793": {
+   "bankTenureMonths": 48,
+   "counterpartiesCnt": 5,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 597586.0,
+     "debitTurnover": 580370.0,
+     "endBalance": 164208.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 845215.0,
+     "debitTurnover": 862927.0,
+     "endBalance": 118615.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 536107.0,
+     "debitTurnover": 508159.0,
+     "endBalance": 133324.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 592497.0,
+     "debitTurnover": 539559.0,
+     "endBalance": 199835.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 569348.0,
+     "debitTurnover": 539410.0,
+     "endBalance": 67770.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 629375.0,
+     "debitTurnover": 572077.0,
+     "endBalance": 262334.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 553708.0,
+     "debitTurnover": 565194.0,
+     "endBalance": 165672.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 755492.0,
+     "debitTurnover": 667861.0,
+     "endBalance": 221932.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 780487.0,
+     "debitTurnover": 805842.0,
+     "endBalance": 119114.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 477357.0,
+     "debitTurnover": 461999.0,
+     "endBalance": 70004.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 481360.0,
+     "debitTurnover": 493695.0,
+     "endBalance": 54549.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 643431.0,
+     "debitTurnover": 708592.0,
+     "endBalance": 177280.0
+    }
+   ]
+  },
+  "002977663543": {
+   "bankTenureMonths": 32,
+   "counterpartiesCnt": 11,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 324061.0,
+     "debitTurnover": 322997.0,
+     "endBalance": 2167.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 381545.0,
+     "debitTurnover": 409855.0,
+     "endBalance": 3430.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 464692.0,
+     "debitTurnover": 441302.0,
+     "endBalance": 734.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 407902.0,
+     "debitTurnover": 397819.0,
+     "endBalance": 1719.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 381978.0,
+     "debitTurnover": 383942.0,
+     "endBalance": 1399.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 361765.0,
+     "debitTurnover": 323423.0,
+     "endBalance": 1459.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 339858.0,
+     "debitTurnover": 333804.0,
+     "endBalance": 567.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 365980.0,
+     "debitTurnover": 400516.0,
+     "endBalance": 1725.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 392338.0,
+     "debitTurnover": 375335.0,
+     "endBalance": 2834.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 420850.0,
+     "debitTurnover": 427528.0,
+     "endBalance": 796.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 303410.0,
+     "debitTurnover": 328373.0,
+     "endBalance": 3905.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 355610.0,
+     "debitTurnover": 355152.0,
+     "endBalance": 5504.0
+    }
+   ]
+  },
+  "002862838067": {
+   "bankTenureMonths": 16,
+   "counterpartiesCnt": 22,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 3187721.0,
+     "debitTurnover": 2693759.0,
+     "endBalance": 352269.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 3159548.0,
+     "debitTurnover": 3012507.0,
+     "endBalance": 826121.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 3344381.0,
+     "debitTurnover": 3195018.0,
+     "endBalance": 616949.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 2754572.0,
+     "debitTurnover": 2694582.0,
+     "endBalance": 1079600.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 3300619.0,
+     "debitTurnover": 3000631.0,
+     "endBalance": 1187594.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 3691497.0,
+     "debitTurnover": 3445866.0,
+     "endBalance": 941513.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 4159214.0,
+     "debitTurnover": 3662775.0,
+     "endBalance": 2516972.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 3831669.0,
+     "debitTurnover": 3610451.0,
+     "endBalance": 117437.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 4342227.0,
+     "debitTurnover": 4059939.0,
+     "endBalance": 959155.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 4042270.0,
+     "debitTurnover": 3534602.0,
+     "endBalance": 170414.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 3364602.0,
+     "debitTurnover": 3230729.0,
+     "endBalance": 689592.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 4423580.0,
+     "debitTurnover": 4391047.0,
+     "endBalance": 1393521.0
+    }
+   ]
+  },
+  "0098795826": {
+   "bankTenureMonths": 166,
+   "counterpartiesCnt": 14,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 4491741.0,
+     "debitTurnover": 4455388.0,
+     "endBalance": 529815.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 2913748.0,
+     "debitTurnover": 3057654.0,
+     "endBalance": 625733.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 3100070.0,
+     "debitTurnover": 2702238.0,
+     "endBalance": 921642.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 4407484.0,
+     "debitTurnover": 4349712.0,
+     "endBalance": 677373.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 4280765.0,
+     "debitTurnover": 4568252.0,
+     "endBalance": 305651.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 3354318.0,
+     "debitTurnover": 3601138.0,
+     "endBalance": 367912.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 3008354.0,
+     "debitTurnover": 3118053.0,
+     "endBalance": -365214.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 5476209.0,
+     "debitTurnover": 5362923.0,
+     "endBalance": -94128.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 4320737.0,
+     "debitTurnover": 4369396.0,
+     "endBalance": 635571.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 4230552.0,
+     "debitTurnover": 4487522.0,
+     "endBalance": 415530.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 2991308.0,
+     "debitTurnover": 2938258.0,
+     "endBalance": 734766.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 4210433.0,
+     "debitTurnover": 4206206.0,
+     "endBalance": 773809.0
+    }
+   ]
+  },
+  "0013841924": {
+   "bankTenureMonths": 5,
+   "counterpartiesCnt": 15,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 2415331.0,
+     "debitTurnover": 2584405.0,
+     "endBalance": 36257.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 3052121.0,
+     "debitTurnover": 3383289.0,
+     "endBalance": 123207.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 2697688.0,
+     "debitTurnover": 2843820.0,
+     "endBalance": 79792.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 3656743.0,
+     "debitTurnover": 3751541.0,
+     "endBalance": 106782.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 3395248.0,
+     "debitTurnover": 3383736.0,
+     "endBalance": 104192.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 3193747.0,
+     "debitTurnover": 3265202.0,
+     "endBalance": 109949.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 2011930.0,
+     "debitTurnover": 1970466.0,
+     "endBalance": -71829.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 2881478.0,
+     "debitTurnover": 3099001.0,
+     "endBalance": 163557.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 2022479.0,
+     "debitTurnover": 2017479.0,
+     "endBalance": 21800.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1307166.0,
+     "debitTurnover": 1262516.0,
+     "endBalance": 144662.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1474211.0,
+     "debitTurnover": 1545262.0,
+     "endBalance": 204961.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1193781.0,
+     "debitTurnover": 1085181.0,
+     "endBalance": 198038.0
+    }
+   ]
+  },
+  "0009328090": {
+   "bankTenureMonths": 8,
+   "counterpartiesCnt": 15,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 2720571.0,
+     "debitTurnover": 2583625.0,
+     "endBalance": 647065.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 2892617.0,
+     "debitTurnover": 2794169.0,
+     "endBalance": 500180.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 2983427.0,
+     "debitTurnover": 2702392.0,
+     "endBalance": 558515.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1902069.0,
+     "debitTurnover": 1774426.0,
+     "endBalance": 651125.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 2298990.0,
+     "debitTurnover": 2104738.0,
+     "endBalance": 665849.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 2751853.0,
+     "debitTurnover": 2732478.0,
+     "endBalance": 86395.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 2365800.0,
+     "debitTurnover": 2255697.0,
+     "endBalance": 387031.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 2989687.0,
+     "debitTurnover": 2734432.0,
+     "endBalance": 746566.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 2168652.0,
+     "debitTurnover": 1953974.0,
+     "endBalance": 372731.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1844500.0,
+     "debitTurnover": 1878635.0,
+     "endBalance": 295559.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 2425834.0,
+     "debitTurnover": 2406798.0,
+     "endBalance": 358492.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1666338.0,
+     "debitTurnover": 1577223.0,
+     "endBalance": 391194.0
+    }
+   ]
+  },
+  "0098558254": {
+   "bankTenureMonths": 57,
+   "counterpartiesCnt": 17,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1870290.0,
+     "debitTurnover": 1781257.0,
+     "endBalance": 208260.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 2694744.0,
+     "debitTurnover": 2737545.0,
+     "endBalance": 228955.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1833089.0,
+     "debitTurnover": 1837881.0,
+     "endBalance": 84996.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1057701.0,
+     "debitTurnover": 1033695.0,
+     "endBalance": 356783.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 1128639.0,
+     "debitTurnover": 1140639.0,
+     "endBalance": 363125.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 990539.0,
+     "debitTurnover": 926281.0,
+     "endBalance": 293906.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 735508.0,
+     "debitTurnover": 719408.0,
+     "endBalance": 221008.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1044910.0,
+     "debitTurnover": 988711.0,
+     "endBalance": 431129.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 1186395.0,
+     "debitTurnover": 1177128.0,
+     "endBalance": 309624.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1535051.0,
+     "debitTurnover": 1476296.0,
+     "endBalance": 423707.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1018758.0,
+     "debitTurnover": 924636.0,
+     "endBalance": 202513.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 974736.0,
+     "debitTurnover": 969912.0,
+     "endBalance": 25993.0
+    }
+   ]
+  },
+  "002880259841": {
+   "bankTenureMonths": 17,
+   "counterpartiesCnt": 6,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 287846.0,
+     "debitTurnover": 254752.0,
+     "endBalance": 44230.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 247105.0,
+     "debitTurnover": 234539.0,
+     "endBalance": 35455.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 278032.0,
+     "debitTurnover": 255874.0,
+     "endBalance": 65527.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 251578.0,
+     "debitTurnover": 238827.0,
+     "endBalance": 36061.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 322911.0,
+     "debitTurnover": 265135.0,
+     "endBalance": 49039.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 229156.0,
+     "debitTurnover": 221707.0,
+     "endBalance": 6887.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 383759.0,
+     "debitTurnover": 343151.0,
+     "endBalance": 55168.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 402397.0,
+     "debitTurnover": 374168.0,
+     "endBalance": 59276.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 257543.0,
+     "debitTurnover": 240366.0,
+     "endBalance": 43493.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 331658.0,
+     "debitTurnover": 299706.0,
+     "endBalance": 26245.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 371856.0,
+     "debitTurnover": 332931.0,
+     "endBalance": 77171.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 314210.0,
+     "debitTurnover": 279635.0,
+     "endBalance": -742.0
+    }
+   ]
+  },
+  "002763850514": {
+   "bankTenureMonths": 65,
+   "counterpartiesCnt": 14,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1033434.0,
+     "debitTurnover": 1088881.0,
+     "endBalance": -82242.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 664135.0,
+     "debitTurnover": 624006.0,
+     "endBalance": -74612.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 790552.0,
+     "debitTurnover": 788786.0,
+     "endBalance": 172339.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1572053.0,
+     "debitTurnover": 1648466.0,
+     "endBalance": -46252.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 1860069.0,
+     "debitTurnover": 1965570.0,
+     "endBalance": 82431.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 822013.0,
+     "debitTurnover": 837066.0,
+     "endBalance": 72247.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 1678848.0,
+     "debitTurnover": 1694635.0,
+     "endBalance": 238498.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1873994.0,
+     "debitTurnover": 1961865.0,
+     "endBalance": 6736.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 2379227.0,
+     "debitTurnover": 2512787.0,
+     "endBalance": 242356.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1065342.0,
+     "debitTurnover": 1077784.0,
+     "endBalance": 120408.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 882159.0,
+     "debitTurnover": 831763.0,
+     "endBalance": 102381.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 938583.0,
+     "debitTurnover": 970520.0,
+     "endBalance": -58490.0
+    }
+   ]
+  },
+  "0015346530": {
+   "bankTenureMonths": 8,
+   "counterpartiesCnt": 13,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 775226.0,
+     "debitTurnover": 692670.0,
+     "endBalance": 111241.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 565338.0,
+     "debitTurnover": 485408.0,
+     "endBalance": 101491.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 769896.0,
+     "debitTurnover": 661860.0,
+     "endBalance": 74298.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 842602.0,
+     "debitTurnover": 715163.0,
+     "endBalance": 83828.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 1399847.0,
+     "debitTurnover": 1328206.0,
+     "endBalance": 58911.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1130272.0,
+     "debitTurnover": 1085579.0,
+     "endBalance": 27147.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 1021152.0,
+     "debitTurnover": 856781.0,
+     "endBalance": 45047.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1021641.0,
+     "debitTurnover": 905229.0,
+     "endBalance": 120267.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 828893.0,
+     "debitTurnover": 756531.0,
+     "endBalance": 115768.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 629969.0,
+     "debitTurnover": 617865.0,
+     "endBalance": 51168.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 899643.0,
+     "debitTurnover": 822214.0,
+     "endBalance": 148108.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 952430.0,
+     "debitTurnover": 900872.0,
+     "endBalance": 164536.0
+    }
+   ]
+  },
+  "0013921111": {
+   "bankTenureMonths": 11,
+   "counterpartiesCnt": 10,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 701673.0,
+     "debitTurnover": 718674.0,
+     "endBalance": 216773.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 929225.0,
+     "debitTurnover": 951675.0,
+     "endBalance": 169961.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 900301.0,
+     "debitTurnover": 886603.0,
+     "endBalance": 154494.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 680331.0,
+     "debitTurnover": 646022.0,
+     "endBalance": 237834.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 971929.0,
+     "debitTurnover": 983489.0,
+     "endBalance": 211774.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1024802.0,
+     "debitTurnover": 1039835.0,
+     "endBalance": 112413.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 841771.0,
+     "debitTurnover": 849433.0,
+     "endBalance": 68682.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 835286.0,
+     "debitTurnover": 846250.0,
+     "endBalance": -645.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 835019.0,
+     "debitTurnover": 777391.0,
+     "endBalance": 293316.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 464195.0,
+     "debitTurnover": 468093.0,
+     "endBalance": 226570.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 481198.0,
+     "debitTurnover": 490689.0,
+     "endBalance": 185756.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 492947.0,
+     "debitTurnover": 524610.0,
+     "endBalance": 122017.0
+    }
+   ]
+  },
+  "002900849231": {
+   "bankTenureMonths": 16,
+   "counterpartiesCnt": 6,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 188368.0,
+     "debitTurnover": 158811.0,
+     "endBalance": 2954.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 129989.0,
+     "debitTurnover": 109322.0,
+     "endBalance": 5885.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 169655.0,
+     "debitTurnover": 139518.0,
+     "endBalance": -41.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 279042.0,
+     "debitTurnover": 245853.0,
+     "endBalance": -3758.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 285661.0,
+     "debitTurnover": 276339.0,
+     "endBalance": 731.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 225585.0,
+     "debitTurnover": 209611.0,
+     "endBalance": -273.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 209671.0,
+     "debitTurnover": 171155.0,
+     "endBalance": 4777.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 198627.0,
+     "debitTurnover": 171265.0,
+     "endBalance": 1810.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 195068.0,
+     "debitTurnover": 187533.0,
+     "endBalance": 2634.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 166188.0,
+     "debitTurnover": 146972.0,
+     "endBalance": 2587.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 189391.0,
+     "debitTurnover": 169287.0,
+     "endBalance": 1600.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 179766.0,
+     "debitTurnover": 158552.0,
+     "endBalance": 3941.0
+    }
+   ]
+  },
+  "0000696388": {
+   "bankTenureMonths": 13,
+   "counterpartiesCnt": 21,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1231108.0,
+     "debitTurnover": 1179522.0,
+     "endBalance": 117774.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 793244.0,
+     "debitTurnover": 696871.0,
+     "endBalance": 1287.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 911889.0,
+     "debitTurnover": 864991.0,
+     "endBalance": 77266.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1272312.0,
+     "debitTurnover": 1154348.0,
+     "endBalance": 409660.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 1456956.0,
+     "debitTurnover": 1238328.0,
+     "endBalance": 51660.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1909236.0,
+     "debitTurnover": 1938810.0,
+     "endBalance": 128097.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 1705375.0,
+     "debitTurnover": 1533349.0,
+     "endBalance": 11225.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1636927.0,
+     "debitTurnover": 1300308.0,
+     "endBalance": -42962.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 1703689.0,
+     "debitTurnover": 1561248.0,
+     "endBalance": 113491.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 957813.0,
+     "debitTurnover": 913996.0,
+     "endBalance": 341242.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1044496.0,
+     "debitTurnover": 970730.0,
+     "endBalance": 92179.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 916311.0,
+     "debitTurnover": 850948.0,
+     "endBalance": 43802.0
+    }
+   ]
+  },
+  "0093410906": {
+   "bankTenureMonths": 28,
+   "counterpartiesCnt": 6,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 451449.0,
+     "debitTurnover": 515245.0,
+     "endBalance": 30185.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 518227.0,
+     "debitTurnover": 513839.0,
+     "endBalance": 100699.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 494007.0,
+     "debitTurnover": 499700.0,
+     "endBalance": 72210.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 954174.0,
+     "debitTurnover": 942497.0,
+     "endBalance": 57292.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 659214.0,
+     "debitTurnover": 667070.0,
+     "endBalance": 38973.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 487795.0,
+     "debitTurnover": 508837.0,
+     "endBalance": 7058.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 686626.0,
+     "debitTurnover": 733806.0,
+     "endBalance": 70843.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 634809.0,
+     "debitTurnover": 669996.0,
+     "endBalance": 145723.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 734184.0,
+     "debitTurnover": 707758.0,
+     "endBalance": 66116.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 564234.0,
+     "debitTurnover": 584845.0,
+     "endBalance": 110042.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 842531.0,
+     "debitTurnover": 875564.0,
+     "endBalance": 172801.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 539975.0,
+     "debitTurnover": 587826.0,
+     "endBalance": 52766.0
+    }
+   ]
+  },
+  "0071792031": {
+   "bankTenureMonths": 49,
+   "counterpartiesCnt": 8,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 646202.0,
+     "debitTurnover": 617460.0,
+     "endBalance": 107081.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 600482.0,
+     "debitTurnover": 618598.0,
+     "endBalance": 17838.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 726563.0,
+     "debitTurnover": 688965.0,
+     "endBalance": 104824.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 651856.0,
+     "debitTurnover": 660245.0,
+     "endBalance": 135364.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 841335.0,
+     "debitTurnover": 823059.0,
+     "endBalance": 67322.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 881134.0,
+     "debitTurnover": 865404.0,
+     "endBalance": 130973.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 968254.0,
+     "debitTurnover": 950563.0,
+     "endBalance": 133374.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 1186591.0,
+     "debitTurnover": 1118425.0,
+     "endBalance": 84324.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 941482.0,
+     "debitTurnover": 991809.0,
+     "endBalance": 85832.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 487708.0,
+     "debitTurnover": 485243.0,
+     "endBalance": 106683.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 643180.0,
+     "debitTurnover": 701540.0,
+     "endBalance": 138636.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 649401.0,
+     "debitTurnover": 594596.0,
+     "endBalance": 103570.0
+    }
+   ]
+  },
+  "003097240489": {
+   "bankTenureMonths": 3,
+   "counterpartiesCnt": 7,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 239398.0,
+     "debitTurnover": 229825.0,
+     "endBalance": -175.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 213855.0,
+     "debitTurnover": 207462.0,
+     "endBalance": 411.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 188227.0,
+     "debitTurnover": 190157.0,
+     "endBalance": 1244.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 261619.0,
+     "debitTurnover": 251976.0,
+     "endBalance": 2863.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 358611.0,
+     "debitTurnover": 350894.0,
+     "endBalance": 2173.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 302104.0,
+     "debitTurnover": 291296.0,
+     "endBalance": 391.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 220169.0,
+     "debitTurnover": 218550.0,
+     "endBalance": -1568.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 348837.0,
+     "debitTurnover": 322588.0,
+     "endBalance": 2494.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 255063.0,
+     "debitTurnover": 266225.0,
+     "endBalance": 1174.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 248262.0,
+     "debitTurnover": 252936.0,
+     "endBalance": -324.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 261761.0,
+     "debitTurnover": 263135.0,
+     "endBalance": 979.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 199822.0,
+     "debitTurnover": 212450.0,
+     "endBalance": 1610.0
+    }
+   ]
+  },
+  "0014713019": {
+   "bankTenureMonths": 28,
+   "counterpartiesCnt": 19,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 2836864.0,
+     "debitTurnover": 2655077.0,
+     "endBalance": 818295.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 3520383.0,
+     "debitTurnover": 3562591.0,
+     "endBalance": 603711.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 2620118.0,
+     "debitTurnover": 2480582.0,
+     "endBalance": 788504.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1852846.0,
+     "debitTurnover": 1790350.0,
+     "endBalance": 321720.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 2994566.0,
+     "debitTurnover": 2660777.0,
+     "endBalance": 384036.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 3007931.0,
+     "debitTurnover": 2805674.0,
+     "endBalance": 700092.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 3375681.0,
+     "debitTurnover": 3187687.0,
+     "endBalance": 668957.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 3479230.0,
+     "debitTurnover": 3607479.0,
+     "endBalance": 173131.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 4171933.0,
+     "debitTurnover": 4034828.0,
+     "endBalance": 976376.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 1639379.0,
+     "debitTurnover": 1568831.0,
+     "endBalance": -113382.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1550908.0,
+     "debitTurnover": 1501015.0,
+     "endBalance": 524023.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 1755613.0,
+     "debitTurnover": 1654224.0,
+     "endBalance": 950522.0
+    }
+   ]
+  },
+  "0077335338": {
+   "bankTenureMonths": 8,
+   "counterpartiesCnt": 18,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 3584509.0,
+     "debitTurnover": 3551663.0,
+     "endBalance": -10331.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 2797296.0,
+     "debitTurnover": 2673319.0,
+     "endBalance": 19353.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 2384699.0,
+     "debitTurnover": 2155385.0,
+     "endBalance": -12250.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 2835473.0,
+     "debitTurnover": 2574270.0,
+     "endBalance": 32080.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 2902926.0,
+     "debitTurnover": 2689776.0,
+     "endBalance": 24553.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 2060668.0,
+     "debitTurnover": 1891620.0,
+     "endBalance": 30560.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 3428833.0,
+     "debitTurnover": 3326578.0,
+     "endBalance": 27469.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 3319030.0,
+     "debitTurnover": 3161867.0,
+     "endBalance": 2707.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 5244479.0,
+     "debitTurnover": 4803102.0,
+     "endBalance": 25336.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 3300792.0,
+     "debitTurnover": 3068657.0,
+     "endBalance": 27069.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 3761010.0,
+     "debitTurnover": 3258500.0,
+     "endBalance": 5256.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 5715186.0,
+     "debitTurnover": 5061150.0,
+     "endBalance": -5560.0
+    }
+   ]
+  },
+  "0004972649": {
+   "bankTenureMonths": 15,
+   "counterpartiesCnt": 9,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1143117.0,
+     "debitTurnover": 1008941.0,
+     "endBalance": -1016.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 1668535.0,
+     "debitTurnover": 1583746.0,
+     "endBalance": 12586.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1332160.0,
+     "debitTurnover": 1319476.0,
+     "endBalance": 2910.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 1029530.0,
+     "debitTurnover": 1062850.0,
+     "endBalance": 2632.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 912862.0,
+     "debitTurnover": 834605.0,
+     "endBalance": 11736.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1351697.0,
+     "debitTurnover": 1286930.0,
+     "endBalance": 1682.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 788321.0,
+     "debitTurnover": 771544.0,
+     "endBalance": 3829.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 890636.0,
+     "debitTurnover": 910357.0,
+     "endBalance": 8222.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 980125.0,
+     "debitTurnover": 949512.0,
+     "endBalance": 5046.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 927739.0,
+     "debitTurnover": 924178.0,
+     "endBalance": 9454.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 940883.0,
+     "debitTurnover": 935404.0,
+     "endBalance": 4864.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 606108.0,
+     "debitTurnover": 592258.0,
+     "endBalance": 11344.0
+    }
+   ]
+  },
+  "002865213779": {
+   "bankTenureMonths": 9,
+   "counterpartiesCnt": 16,
+   "months": [
+    {
+     "month": "2025-10",
+     "creditTurnover": 1069139.0,
+     "debitTurnover": 994823.0,
+     "endBalance": 293046.0
+    },
+    {
+     "month": "2025-11",
+     "creditTurnover": 1238709.0,
+     "debitTurnover": 1196716.0,
+     "endBalance": 227355.0
+    },
+    {
+     "month": "2025-12",
+     "creditTurnover": 1304531.0,
+     "debitTurnover": 1210110.0,
+     "endBalance": 200062.0
+    },
+    {
+     "month": "2026-01",
+     "creditTurnover": 685291.0,
+     "debitTurnover": 608454.0,
+     "endBalance": 222342.0
+    },
+    {
+     "month": "2026-02",
+     "creditTurnover": 976370.0,
+     "debitTurnover": 844364.0,
+     "endBalance": -15944.0
+    },
+    {
+     "month": "2026-03",
+     "creditTurnover": 1113116.0,
+     "debitTurnover": 1122685.0,
+     "endBalance": 397490.0
+    },
+    {
+     "month": "2026-04",
+     "creditTurnover": 996169.0,
+     "debitTurnover": 920418.0,
+     "endBalance": 327794.0
+    },
+    {
+     "month": "2026-05",
+     "creditTurnover": 709290.0,
+     "debitTurnover": 664805.0,
+     "endBalance": 49928.0
+    },
+    {
+     "month": "2026-06",
+     "creditTurnover": 1131478.0,
+     "debitTurnover": 973322.0,
+     "endBalance": 397215.0
+    },
+    {
+     "month": "2026-07",
+     "creditTurnover": 859518.0,
+     "debitTurnover": 814651.0,
+     "endBalance": 396508.0
+    },
+    {
+     "month": "2026-08",
+     "creditTurnover": 1092344.0,
+     "debitTurnover": 946374.0,
+     "endBalance": 180330.0
+    },
+    {
+     "month": "2026-09",
+     "creditTurnover": 802737.0,
+     "debitTurnover": 698873.0,
+     "endBalance": -16280.0
+    }
+   ]
+  }
+ }
+}
